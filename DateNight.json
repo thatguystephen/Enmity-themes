@@ -18,10 +18,10 @@
             "#5289D6"
         ],
         "TEXT_NORMAL": [
-            "#ffffff"
+            "#5289D6"
         ],
         "TEXT_MUTED": [
-            "#a7a7a7"
+            "#5289D6"
         ],
         "INTERACTIVE_NORMAL": [
             "#5289D6"
@@ -121,7 +121,7 @@
             "#222222"
         ],
         "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
-            "#5289D6"
+            "#141414"
         ],
         "BG_BACKDROP": [
             "transparent"
@@ -137,7 +137,7 @@
         "PRIMARY_400": "#5289D6",
         "PRIMARY_600": "#141414",
         "PRIMARY_630": "#000000",
-        "PRIMARY_645": "#5289D6",
+        "PRIMARY_645": "#141414",
         "PRIMARY_660": "#3b3b3b",
         "PRIMARY_700": "#141414",
         "PRIMARY_800": "#000000",
