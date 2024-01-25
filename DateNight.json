@@ -1,6 +1,6 @@
 {
     "name": "DateNight",
-    "description": "A cozy theme",
+    "description": "Art by Vayneeee4. Big thanks to sovimuffins for her help",
     "authors": [
 
         {
@@ -67,13 +67,13 @@
             "#EA42CD"
         ],
         "BACKGROUND_MODIFIER_HOVER": [
-            "#EA42CD"
+            "#141414"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
             "#141414"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#5289D6"
+            "#141414"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
             "#222222"
@@ -130,7 +130,7 @@
     "rawColors": {
         "PRIMARY_500": "#5289D6",
         "PRIMARY_100": "#5289D6",
-        "PRIMARY_200": "#1ced20",
+        "PRIMARY_200": "#EA42CD",
         "PRIMARY_230": "#ffffff",
         "PRIMARY_300": "#5289D6",
         "PRIMARY_360": "#EA42CD",
@@ -144,12 +144,12 @@
         "BRAND_260": "#5289D6",
         "BRAND_360": "#EA42CD",
         "BRAND_500": "#5289D6",
-        "BRAND_560": "#1ced20",
+        "BRAND_560": "#ffffff",
         "YELLOW_300": "#5289D6",
         "GREEN_600": "#141414",
         "RED_400": "#b00b69",
         "WHITE_500": "#f9f1f1",
-        "GREEN_360": "#1ced20"
+        "GREEN_360": "#5289D6"
     },
     
     "background": {
