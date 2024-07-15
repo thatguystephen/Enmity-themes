@@ -16,6 +16,11 @@
              "id": "739495873859289139"
         }
     ],
+    "plus": {
+       "version": 0,
+       "mentionLineColor": "#6786CA",
+       "iconpack": "rosiecord-plumpy"
+  },
     "semanticColors": {
         "HEADER_PRIMARY": [
             "#5289D6"
@@ -71,7 +76,9 @@
         "BACKGROUND_NESTED_FLOATING": [
             "#5289D6"
         ],
-       
+       "BACKGROUND_MENTIONED": [
+           "#6786CA"
+       ],
         "BACKGROUND_MESSAGE_HOVER": [
             "#F2A0EB"
         ],
@@ -167,7 +174,8 @@
         "BRAND_360": "#F2A0EB",
         "BRAND_500": "#5289D6",
         "BRAND_560": "#ffffff",
-        "YELLOW_300": "#5289D6",
+        "YELLOW_300": "#6786CA",
+        "YELLOW_260": "#6786CA",
         "GREEN_600": "#141414",
         "RED_400": "#b00b69",
         "WHITE_500": "#f9f1f1",
