@@ -44,7 +44,7 @@
             "#5289D6"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#5289D6"
+            "#F2A0EB"
         ],
         "INTERACTIVE_MUTED": [
             "#5289D6"
@@ -74,7 +74,7 @@
             "#000000"
         ],
         "BACKGROUND_NESTED_FLOATING": [
-            "#5289D6"
+            "#F2A0EB"
         ],
        "BACKGROUND_MENTIONED": [
            "#6786CA"
@@ -170,7 +170,7 @@
         "PLUM_20": "#000000",
         "PLUM_22": "#000000",
         "PLUM_24": "#000000",
-        "BRAND_260": "#ACCFFF",
+        "BRAND_260": "#F2A0EB",
         "BRAND_360": "#F2A0EB",
         "BRAND_500": "#5289D6",
         "BRAND_560": "#ffffff",
