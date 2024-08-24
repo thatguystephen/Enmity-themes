@@ -80,8 +80,8 @@
         "BACKGROUND_NESTED_FLOATING": [
             "#F2A0EB"
         ],
-       "BACKGROUND_MENTIONED": [
-           "#6786CA"
+        "BACKGROUND_MENTIONED": [ 
+            "rgba(103, 134, 202, 0.4)"
        ],
         "BACKGROUND_MESSAGE_HOVER": [
             "#F2A0EB"
