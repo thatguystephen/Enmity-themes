@@ -79,7 +79,7 @@
   },
   "plus": {
        "version": "0",
-       "iconpack": "Solar-Broken",
+       "iconpack": "Solar",
        "mentionLineColor": "#ADC5FA",
        "customOverlays": true,
        "icons":{
