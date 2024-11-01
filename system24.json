@@ -11,7 +11,8 @@
   "spec": 2,
   "plus": {
     "version": 0,
-    "mentionLineColor": "#1dd75e"
+    "mentionLineColor": "#1a1a1a",
+    "customOverlays": true
   },
   "semanticColors": {
     "HEADER_PRIMARY": ["#b3b3b3"],
@@ -24,7 +25,7 @@
     "INTERACTIVE_ACTIVE": ["#808080"],
     "INTERACTIVE_MUTED": ["#4d4d4d"],
     "BACKGROUND_PRIMARY": ["#121212"],
-    "BACKGROUND_SECONDARY": ["#77649b"],
+    "BACKGROUND_SECONDARY": ["#1dd75e"],
     "BACKGROUND_SECONDARY_ALT": ["#121212"],
     "BACKGROUND_TERTIARY": ["#121212"],
     "BACKGROUND_ACCENT": ["#1a1a1a"],
