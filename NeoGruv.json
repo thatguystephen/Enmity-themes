@@ -84,5 +84,6 @@
       "StatusDND": "#c9a86b",
       "StatusOffline": "#A0A0A0"
     }
-  }
+  },
+  "spec": 2
 }
