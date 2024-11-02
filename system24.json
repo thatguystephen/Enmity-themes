@@ -12,7 +12,24 @@
   "plus": {
     "version": 0,
     "mentionLineColor": "#1a1a1a",
-    "customOverlays": true
+    "customOverlays": true,
+    "icons": {
+      "ic_radio_circle_checked": "#d2cdb2",
+      "ic_radio_circle_checked__overlay": "#d2cdb2",
+      "ic_radio_square_24px": "#d2cdb2",
+      "ic_radio_square_checked_24px": "#d2cdb2",
+      "ic_radio_square_checked_24px__overlay": "#d2cdb2",
+      "ic_rich_presence_dark_12px": "#76946a",
+      "ic_selection_checked_24px": "#76946a",
+      "ic_selection_checked_24px__overlay": "#d2cdb2",
+      "ic_star_filled": "#76946a",
+      "img_guild_folder": "#76946a",
+      "ArrowLargeLeftIcon_18px": "#d2cdb2",
+      "ArrowLargeRightIcon_18px": "#d2cdb2",
+      "ArrowAngleRightUpIcon_18px": "#d2cdb2",
+      "ArrowAngleRightUpIcon_16px": "#d2cdb2",
+      "MoreHorizontalIcon_24px": "#d2cdb2"
+    }
   },
   "semanticColors": {
     "HEADER_PRIMARY": ["#b3b3b3"],
