@@ -42,9 +42,6 @@
     "BACKGROUND_MOBILE_SECONDARY": [
       "#131419"
     ],
-    "BACKGROUND_NESTED_FLOATING": [
-      "#0cff08"
-    ],
     "BACKGROUND_PRIMARY": [
       "#1f1f28"
     ],
@@ -202,7 +199,7 @@
       "#bcb8a1"
     ],
     "PANEL_BG": [
-      "#1f1f28"
+      "#00fb03"
     ],
     "TYPING_INDICATOR_BG": [
       "#181A21"
