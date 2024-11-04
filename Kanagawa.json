@@ -91,10 +91,10 @@
       "#1B1E27"
     ],
     "HEADER_PRIMARY": [
-      "#76769a"
+      "#fdf7db90"
     ],
     "HEADER_SECONDARY": [
-      "#76769a"
+      "#fdf7db90"
     ],
     "INPUT_BACKGROUND": [
       "#181A21"
@@ -109,7 +109,7 @@
       "#434D6277"
     ],
     "INTERACTIVE_NORMAL": [
-      "#76769a"
+      "#fdf7db90"
     ],
     "MENTION_BACKGROUND": [
       "#1B1E27"
@@ -124,13 +124,13 @@
       "#76769a"
     ],
     "TEXT_NORMAL": [
-      "#fdf7db"
+      "#fdf7db90"
     ],
     "TEXT_MUTED": [
       "#bcb8a1"
     ],
     "TEXT_PRIMARY": [
-      "#fdf7db"
+      "#fdf7db90"
     ],
     "THREAD_CHANNEL_SPINE": [
       "#76769a"
@@ -199,7 +199,7 @@
       "#76769a"
     ],
     "REDESIGN_INPUT_CONTROL_SELECTED": [
-      "#76769a"
+      "#bcb8a1"
     ],
     "PANEL_BG": [
       "#14151B"
