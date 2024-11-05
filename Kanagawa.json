@@ -48,7 +48,7 @@
     "TEXT_LINK": ["#85c1dcc1"],
     "TEXT_NORMAL": ["#DCD7BA90"],
     "TEXT_MUTED": ["#a5adce7d"],
-    "TEXT_PRIMARY": ["#d2cdb290"],
+    "TEXT_PRIMARY": ["#d2cdb2"],
     "THREAD_CHANNEL_SPINE": ["#76769a"],
     "BG_BASE_PRIMARY": ["#1f1f28"],
     "BG_BASE_SECONDARY": ["#1f1f28"],
