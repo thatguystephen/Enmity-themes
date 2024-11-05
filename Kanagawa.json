@@ -215,8 +215,7 @@
   },
   "plus": {
     "version": "0",
-    "iconpack": "MaterialTwoTone",
-    "mentionLineColor": "#76769a",
+    "mentionLineColor": "#e78284",
     "customOverlays": true,
     "icons": {
       "ic_radio_circle_checked": "#76769a",
