@@ -231,17 +231,18 @@
       "StatusIdle": "#fdf7db90",
       "StatusDND": "#e78284ff",
       "StatusOffline": "#1f1f28",
+      "ic_messages": "#c6d0f526",
       "ic_wand": "#dcd7baff",
+      "ic_pencil_24px": "#c6d0f526",
       "ic_edit_20px": "#dcd7baff",
-      "ic_group_edit_18px": "#dcd7baff",
       "ic_arrow_back_24px": "#dcd7baff",
       "ic_back_chevron": "#dcd7baff",
-      "ic_download_24px": "#dcd7baff",
+      "ic_download_24px": "#c6d0f526",
       "friends_toast_icon": "#dcd7baff",
-      "toast_copy_link": "#76769a",
-      "toast_copy_message": "#76769a",
-      "toast_image_saved": "#76769a",
-      "toast_invite_sent": "#76769a"
+      "toast_copy_link": "#c6d0f526",
+      "toast_copy_message": "#c6d0f526",
+      "toast_image_saved": "#c6d0f526",
+      "toast_invite_sent": "#c6d0f526"
     }
   },
   "spec": 2
