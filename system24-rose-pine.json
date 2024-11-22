@@ -100,7 +100,7 @@
       "#191724"
     ],
     "CARD_PRIMARY_BG": [
-      "rgb(33, 31, 45)"
+      "rgba(25, 23, 36, .7)"
     ],
     "CARD_SECONDARY_BG": [
       "rgb(33, 31, 45)"
