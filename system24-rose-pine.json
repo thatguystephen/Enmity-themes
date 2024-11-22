@@ -76,10 +76,10 @@
             "rgba(235, 188, 186, .95)"
         ],
         "BACKGROUND_FLOATING": [
-            "#111111"
+            "rgb(33, 31, 45)"
         ],
         "BACKGROUND_NESTED_FLOATING": [
-            "#1a1a1a"
+            "rgb(33, 31, 45)"
         ],
         "BACKGROUND_MESSAGE_HOVER": [
             "rgba(255, 255, 255, 0.2)"
@@ -136,10 +136,10 @@
             "#211F2D"
         ],
         "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
-            "#211F2D"
+            "rgb(25, 23, 36)"
         ],
         "REDESIGN_BUTTON_SECONDARY_BORDER": [
-            "#26233A"
+            "rgb(25, 23, 36)"
         ],
         "REDESIGN_BUTTON_SELECTED_PRESSED_BACKGROUND": [
             "rgb(155, 187, 89)"
@@ -180,7 +180,7 @@
         "BRAND_560": "rgb(155, 187, 89)",
         "GREEN_360": "rgb(155, 187, 89)",
         "PLUM_6": "#d1cee3b9",
-        "PLUM_11": "rgba(235, 188, 186, .85)",
+        "PLUM_11": "rgba(235, 188, 186, .25)",
         "PLUM_16": "rgb(33, 31, 45)",
         "PLUM_17": "rgb(33, 31, 45)",
         "PLUM_20": "rgb(33, 31, 45)",
