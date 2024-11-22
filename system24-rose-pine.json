@@ -100,13 +100,13 @@
       "#191724"
     ],
     "CARD_PRIMARY_BG": [
-      "rgba(25, 23, 36, .7)"
+      "#44475D"
     ],
     "CARD_SECONDARY_BG": [
       "rgb(33, 31, 45)"
     ],
     "CHANNEL_ICON": [
-      "#fdfdfd73"
+      "#fdfdfda0"
     ],
     "CHANNEL_TEXT_AREA_PLACEHOLDER": [
       "#191724"
