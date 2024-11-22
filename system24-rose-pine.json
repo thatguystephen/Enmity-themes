@@ -28,16 +28,16 @@
     },
     "semanticColors": {
         "HEADER_PRIMARY": [
-            "#b3b3b3"
+            "#d1cee3"
         ],
         "HEADER_SECONDARY": [
-            "#b3b3b3b9"
+            "#d1cee3b9"
         ],
         "TEXT_NORMAL": [
-            "#b3b3b3"
+            "#d1cee3"
         ],
         "TEXT_MUTED": [
-            "#b3b3b3b9"
+            "#d1cee3b9"
         ],
         "TEXT_LINK": [
             "#EBBCBA"
@@ -180,7 +180,7 @@
         "BRAND_560": "#1dd75e",
         "GREEN_360": "#1dd75e",
         "PLUM_6": "#bbbcbc",
-        "PLUM_11": "#121212",
+        "PLUM_11": "rgb(33, 31, 45)",
         "PLUM_16": "#1a1a1a",
         "PLUM_17": "#1a1a1a",
         "PLUM_20": "#121212",
