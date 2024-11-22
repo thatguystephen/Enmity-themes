@@ -91,7 +91,7 @@
       "rgb(25, 23, 36)"
     ],
     "BG_BACKDROP": [
-      "rgba(25, 23, 36, .5)"
+      "rgba(25, 23, 36, .8)"
     ],
     "BG_BASE_PRIMARY": [
       "rgb(25, 23, 36)"
@@ -106,7 +106,7 @@
       "rgb(33, 31, 45)"
     ],
     "CHANNEL_ICON": [
-      "#FDFDFD32"
+      "#fdfdfd73"
     ],
     "CHANNEL_TEXT_AREA_PLACEHOLDER": [
       "#191724"
@@ -129,9 +129,6 @@
     "EMBED_BACKGROUND": [
       "rgb(33, 31, 45)"
     ],
-    "KEYBOARD": [
-      "#121212"
-    ],
     "CHAT_SWIPE_TO_REPLY_BACKGROUND": [
       "#211F2D"
     ],
@@ -148,7 +145,7 @@
       "#d1cee3"
     ],
     "REDESIGN_CHAT_INPUT_BACKGROUND": [
-      "transparent"
+      "rgb(33, 31, 45)"
     ],
     "SPOILER_HIDDEN_BACKGROUND": [
       "#1e1f22"
@@ -159,16 +156,16 @@
     "ICON_MUTED": [
       "#4d4d4d"
     ],
-    "STATUS_DND": ["#e586a5"],
+    "STATUS_DND": [
+      "#e586a5"
+    ],
     "STATUS_IDLE": [
       "#e0ae57"
     ],
     "STATUS_OFFLINE": [
       "#4d4d4d"
     ],
-    "STATUS_ONLINE": [
-      "rgb(155, 187, 89)"
-    ]
+    "STATUS_ONLINE": ["rgb(155, 187, 89)"]
   },
   "rawColors": {
     "RED_400": "rgb(155, 187, 89)",
@@ -178,7 +175,7 @@
     "BRAND_560": "rgb(155, 187, 89)",
     "GREEN_360": "rgb(155, 187, 89)",
     "PLUM_6": "#d1cee3d6",
-    "PLUM_11": "#ebbcba",
+    "PLUM_11": "#d1cee3d6",
     "PLUM_16": "rgb(33, 31, 45)",
     "PLUM_17": "rgb(33, 31, 45)",
     "PLUM_20": "rgb(33, 31, 45)",
