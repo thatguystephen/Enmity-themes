@@ -55,7 +55,7 @@
       "#4d4d4d"
     ],
     "BACKGROUND_PRIMARY": [
-      "rgb(33, 31, 45)"
+      "rgb(25, 23, 36)"
     ],
     "BACKGROUND_SECONDARY": [
       "rgb(33, 31, 45)"
@@ -66,6 +66,7 @@
     "BACKGROUND_TERTIARY": [
       "rgb(25, 23, 36)"
     ],
+    "PANEL_BG": ["rgb(33, 31, 45)"],
     "BACKGROUND_ACCENT": [
       "#EBBCBA"
     ],
