@@ -46,7 +46,7 @@
       "#FDFDFD32"
     ],
     "INTERACTIVE_HOVER": [
-      "rgba(255, 255, 255, 0.2)"
+      "rgba(255, 255, 255, 0.3)"
     ],
     "INTERACTIVE_ACTIVE": [
       "rgb(189, 133, 130)"
@@ -83,16 +83,16 @@
       "rgb(25, 23, 36)"
     ],
     "BACKGROUND_MESSAGE_HOVER": [
-      "rgba(255, 255, 255, 0.2)"
+      "rgba(255, 255, 255, 0.3)"
     ],
     "BACKGROUND_MODIFIER_ACTIVE": [
-      "rgba(250, 255, 255, 0.2)"
+      "rgba(250, 255, 255, 0.3)"
     ],
     "BACKGROUND_MODIFIER_ACCENT": [
       "rgb(25, 23, 36)"
     ],
     "BG_BACKDROP": [
-      "rgba(25, 23, 36, .8)"
+      "rgba(25, 23, 36, .9)"
     ],
     "BG_BASE_PRIMARY": [
       "rgb(25, 23, 36)"
@@ -104,13 +104,13 @@
       "#22202d"
     ],
     "CARD_SECONDARY_BG": [
-      "rgb(33, 31, 45)"
+      "#22202d"
     ],
     "CHANNEL_ICON": [
       "#fdfdfda0"
     ],
     "CHANNEL_TEXT_AREA_PLACEHOLDER": [
-      "#191724"
+      "#d1cee3"
     ],
     "TEXT_DANGER": [
       "rgb(155, 187, 89)"
@@ -122,10 +122,10 @@
       "transparent"
     ],
     "SCROLLBAR_AUTO_THUMB": [
-      "#1a1a1a"
+      "transparent"
     ],
     "SCROLLBAR_AUTO_TRACK": [
-      "#1a1a1a"
+      "transparent"
     ],
     "EMBED_BACKGROUND": [
       "rgb(33, 31, 45)"
