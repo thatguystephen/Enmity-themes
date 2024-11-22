@@ -14,16 +14,21 @@
     "mentionLineColor": "#EBBCBA",
     "customOverlays": true,
     "icons": {
-      "ic_radio_circle_checked": "#d2cdb2",
-      "ic_radio_circle_checked__overlay": "#d2cdb2",
-      "ic_radio_square_24px": "#d2cdb2",
-      "ic_radio_square_checked_24px": "#d2cdb2",
-      "ic_radio_square_checked_24px__overlay": "#d2cdb2",
-      "ic_rich_presence_dark_12px": "#76946a",
-      "ic_selection_checked_24px": "#76946a",
-      "ic_selection_checked_24px__overlay": "#d2cdb2",
-      "ic_star_filled": "#76946a",
-      "img_guild_folder": "#76946a"
+      "ic_radio_circle_checked": "#d1cee3",
+      "ic_radio_circle_checked__overlay": "rgb(155, 187, 89)",
+      "ic_radio_square_24px": "#d1cee3",
+      "ic_radio_square_checked_24px": "#d1cee3",
+      "ic_radio_square_checked_24px__overlay": "rgb(155, 187, 89)",
+      "ic_rich_presence_dark_12px": "#d1cee3",
+      "ic_selection_checked_24px": "#d1cee3",
+      "ic_selection_checked_24px__overlay": "rgb(155, 187, 89)",
+      "ic_star_filled": "#d1cee3",
+      "img_guild_folder": "#d1cee3",
+      "friends_toast_icon": "#d1cee3",
+      "toast_copy_link": "#d1cee3",
+      "toast_copy_message": "#d1cee3",
+      "toast_image_saved": "#d1cee3",
+      "toast_invite_sent": "#d1cee3"
     }
   },
   "semanticColors": {
@@ -156,15 +161,9 @@
     "ICON_MUTED": [
       "#4d4d4d"
     ],
-    "STATUS_DND": [
-      "#e586a5"
-    ],
-    "STATUS_IDLE": [
-      "#e0ae57"
-    ],
-    "STATUS_OFFLINE": [
-      "#4d4d4d"
-    ],
+    "STATUS_DND": ["#e586a5"],
+    "STATUS_IDLE": ["#e0ae57"],
+    "STATUS_OFFLINE": ["#4d4d4d"],
     "STATUS_ONLINE": ["rgb(155, 187, 89)"]
   },
   "rawColors": {
@@ -174,7 +173,7 @@
     "BRAND_500": "rgb(155, 187, 89)",
     "BRAND_560": "rgb(155, 187, 89)",
     "GREEN_360": "rgb(155, 187, 89)",
-    "PLUM_6": "#d1cee3d6",
+    "PLUM_6": "#d1cee3d",
     "PLUM_11": "#d1cee3d6",
     "PLUM_16": "rgb(33, 31, 45)",
     "PLUM_17": "rgb(33, 31, 45)",
