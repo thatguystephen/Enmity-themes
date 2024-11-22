@@ -94,16 +94,16 @@
             "#1a1a1a"
         ],
         "BG_BASE_PRIMARY": [
-            "#191724"
+            "rgb(25, 23, 36)"
         ],
         "BG_BASE_SECONDARY": [
             "#191724"
         ],
         "CARD_PRIMARY_BG": [
-            "#1a1a1a"
+            "rgb(33, 31, 45)"
         ],
         "CARD_SECONDARY_BG": [
-            "#1a1a1a"
+            "rgb(33, 31, 45)"
         ],
         "CHANNEL_ICON": [
             "#FDFDFD32"
@@ -142,7 +142,7 @@
             "#26233A"
         ],
         "REDESIGN_BUTTON_SELECTED_PRESSED_BACKGROUND": [
-            "#1dd75e"
+            "rgb(155, 187, 89)"
         ],
         "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
             "#d1cee3"
@@ -169,20 +169,20 @@
             "#4d4d4d"
         ],
         "STATUS_ONLINE": [
-            "#1dd75e"
+            "rgb(155, 187, 89)"
         ]
     },
     "rawColors": {
-        "RED_400": "#1dd75e",
-        "BRAND_230": "#1dd75e",
-        "BRAND_345": "#1dd75e",
-        "BRAND_500": "#264c32",
-        "BRAND_560": "#1dd75e",
-        "GREEN_360": "#1dd75e",
+        "RED_400": "rgb(155, 187, 89)",
+        "BRAND_230": "rgb(155, 187, 89)",
+        "BRAND_345": "rgb(155, 187, 89)",
+        "BRAND_500": "rgb(155, 187, 89)",
+        "BRAND_560": "rgb(155, 187, 89)",
+        "GREEN_360": "rgb(155, 187, 89)",
         "PLUM_6": "#bbbcbc",
-        "PLUM_11": "rgb(33, 31, 45)",
-        "PLUM_16": "#1a1a1a",
-        "PLUM_17": "#1a1a1a",
+        "PLUM_11": "#121212",
+        "PLUM_16": "rgb(33, 31, 45)",
+        "PLUM_17": "rgb(33, 31, 45)",
         "PLUM_20": "#121212",
         "PLUM_22": "#1dd75e",
         "PRIMARY_400": "#808080",
