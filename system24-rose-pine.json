@@ -43,28 +43,28 @@
             "#EBBCBA"
         ],
         "INTERACTIVE_NORMAL": [
-            "#1a1a1a"
+            "#FDFDFD32"
         ],
         "INTERACTIVE_HOVER": [
             "rgba(255, 255, 255, 0.2)"
         ],
         "INTERACTIVE_ACTIVE": [
-            "rgba(250, 255, 255, 0.2)"
+            "rgb(189, 133, 130)"
         ],
         "INTERACTIVE_MUTED": [
             "#4d4d4d"
         ],
         "BACKGROUND_PRIMARY": [
-            "rgb(25, 23, 36)"
+            "rgb(33, 31, 45)"
         ],
         "BACKGROUND_SECONDARY": [
-            "#211F2D"
+            "rgb(33, 31, 45)"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#191724"
+            "rgb(25, 23, 36)"
         ],
         "BACKGROUND_TERTIARY": [
-            "#211F2D"
+            "rgb(25, 23, 36)"
         ],
         "BACKGROUND_ACCENT": [
             "#EBBCBA"
@@ -82,13 +82,13 @@
             "#1a1a1a"
         ],
         "BACKGROUND_MESSAGE_HOVER": [
-            "#111111"
+            "rgba(255, 255, 255, 0.2)"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
-            "#1a1a1a"
+            "rgba(250, 255, 255, 0.2)"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
-            "#EBBCBA"
+            "rgb(33, 31, 45)"
         ],
         "BG_BACKDROP": [
             "#1a1a1a"
