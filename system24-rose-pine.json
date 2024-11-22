@@ -76,10 +76,10 @@
             "rgba(235, 188, 186, .95)"
         ],
         "BACKGROUND_FLOATING": [
-            "rgb(33, 31, 45)"
+            "rgb(25, 23, 36)"
         ],
         "BACKGROUND_NESTED_FLOATING": [
-            "rgb(33, 31, 45)"
+            "rgb(25, 23, 36)"
         ],
         "BACKGROUND_MESSAGE_HOVER": [
             "rgba(255, 255, 255, 0.2)"
