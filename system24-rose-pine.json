@@ -15,20 +15,38 @@
     "customOverlays": true,
     "icons": {
       "ic_radio_circle_checked": "#EBBCBA",
-      "ic_radio_circle_checked__overlay": "#EBBCBA",
+      "ic_radio_circle_checked__overlay": "#FFF",
       "ic_radio_square_24px": "#EBBCBA",
       "ic_radio_square_checked_24px": "#EBBCBA",
-      "ic_radio_square_checked_24px__overlay": "#EBBCBA",
+      "ic_radio_square_checked_24px__overlay": "#FFF",
       "ic_rich_presence_dark_12px": "rgb(155, 187, 89)",
       "ic_selection_checked_24px": "rgb(155, 187, 89)",
-      "ic_selection_checked_24px__overlay": "#EBBCBA",
+      "ic_selection_checked_24px__overlay": "#FFF",
       "ic_star_filled": "rgb(155, 187, 89)",
       "img_guild_folder": "rgb(155, 187, 89)",
       "friends_toast_icon": "#EBBCBA",
       "toast_copy_link": "#EBBCBA",
       "toast_copy_message": "#EBBCBA",
       "toast_image_saved": "#EBBCBA",
-      "toast_invite_sent": "#EBBCBA"
+      "toast_invite_sent": "#EBBCBA",
+      "ic_crown_16px": "#EBBCBA",
+	  "member_list_badge_16px": "#EBBCBA",
+	  "ic_nitro_rep_24px": "#EBBCBA",
+	  "ShopIcon": "#EBBCBA",
+	  "PencilIcon": "#EBBCBA",
+	  "SettingsIcon": "#EBBCBA",
+	  "MagnifyingGlassIcon": "#EBBCBA",
+	  "search": "#EBBCBA"
+    },
+    "icons_no":{
+		  "img_account_sync_facebook_light_and_dark": "#EBBCBA",
+		  "img_account_sync_github_white": "#EBBCBA",
+		  "img_account_sync_reddit_light_and_dark": "#EBBCBA",
+		  "img_account_sync_spotify_light_and_dark": "#EBBCBA",
+		  "img_account_sync_x_white": "#EBBCBA",
+		  "img_account_sync_x_dark": "#EBBCBA",
+		  "img_account_sync_xbox_white": "#EBBCBA",
+		  "img_account_sync_youtube_light_and_dark": "#EBBCBA"
     }
   },
   "semanticColors": {
