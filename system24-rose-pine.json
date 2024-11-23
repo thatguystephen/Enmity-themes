@@ -23,7 +23,12 @@
       "ic_selection_checked_24px": "rgb(155, 187, 89)",
       "ic_selection_checked_24px__overlay": "#EBBCBA",
       "ic_star_filled": "rgb(155, 187, 89)",
-      "img_guild_folder": "rgb(155, 187, 89)"
+      "img_guild_folder": "rgb(155, 187, 89)",
+      "friends_toast_icon": "#EBBCBA",
+      "toast_copy_link": "#EBBCBA",
+      "toast_copy_message": "#EBBCBA",
+      "toast_image_saved": "#EBBCBA",
+      "toast_invite_sent": "#EBBCBA"
     }
   },
   "semanticColors": {
