@@ -248,9 +248,9 @@
 	  "ic_nitro_rep_24px": "#FFF",
 	  "ShopIcon": "#FFF",
 	  "PencilIcon": "#dcd7baff",
-	  "SettingsIcon": "#dcd7baff",
-	  "MagnifyingGlassIcon": "#dcd7baff",
-	  "search": "#dcd7baff"
+	  "SettingsIcon": "#e78284",
+	  "MagnifyingGlassIcon": "#98bb6cff",
+	  "search": "#98bb6cff"
     }
   },
   "spec": 2
