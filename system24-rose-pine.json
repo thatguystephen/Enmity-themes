@@ -1,11 +1,11 @@
 {
   "color": "#191724",
   "name": "system24-rose-pine",
-  "description": "a theme meant to match the system24 theme by refract0r for vencord, and the spicetify theme that inspired it",
+  "description": "Variant of System24 theme by refract0r",
   "authors": [
     {
-      "name": "flowersnax",
-      "id": "300410184046608384"
+      "name": "_spacenomad",
+      "id": "324325381752619009"
     }
   ],
   "spec": 2,
