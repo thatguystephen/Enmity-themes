@@ -31,12 +31,12 @@
       "toast_invite_sent": "#EBBCBA",
       "ic_crown_16px": "#EBBCBA",
 	  "member_list_badge_16px": "#EBBCBA",
-	  "ic_nitro_rep_24px": "#EBBCBA",
-	  "ShopIcon": "#EBBCBA",
+	  "ic_nitro_rep_24px": "#FFF",
+	  "ShopIcon": "#FFF",
 	  "PencilIcon": "#EBBCBA",
 	  "SettingsIcon": "#EBBCBA",
 	  "MagnifyingGlassIcon": "#EBBCBA",
-	  "search": "#fff"
+	  "search": "#EBBCBA"
     },
     "icons_no":{
 		  "img_account_sync_facebook_light_and_dark": "#EBBCBA",
