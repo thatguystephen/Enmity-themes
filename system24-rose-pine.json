@@ -36,7 +36,7 @@
 	  "PencilIcon": "#EBBCBA",
 	  "SettingsIcon": "#EBBCBA",
 	  "MagnifyingGlassIcon": "#EBBCBA",
-	  "search": "#EBBCBA"
+	  "search": "#fff"
     },
     "icons_no":{
 		  "img_account_sync_facebook_light_and_dark": "#EBBCBA",
@@ -66,7 +66,7 @@
       "#EBBCBA"
     ],
     "INTERACTIVE_NORMAL": [
-      "#FDFDFD32"
+      "#d1cee3"
     ],
     "INTERACTIVE_HOVER": [
       "rgba(255, 255, 255, 0.3)"
