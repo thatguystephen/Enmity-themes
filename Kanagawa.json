@@ -28,7 +28,7 @@
     "BORDER_FAINT": ["#ff00ff"],
     "BG_BASE_PRIMARY": ["#1F1F28"],
     "BG_BASE_SECONDARY": ["#1F1F28"],
-    "BG_BASE_TERTIARY": ["#3c3c4e"],
+    "BG_BASE_TERTIARY": ["#232634"],
     "BG_MOD_FAINT": ["#3c3c4e"],
     "BG_MOD_STRONG": ["#3c3c4e"],
     "BG_MOD_SUBTLE": ["#ff0"],
