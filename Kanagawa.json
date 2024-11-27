@@ -78,7 +78,7 @@
     "STATUS_DANGER": ["#e78284"],
     "BG_BRAND": ["#e78284"],
     "LOGO_PRIMARY": ["#ff00ff0f"],
-    "REDESIGN_INPUT_CONTROL_ACTIVE_BG": ["#ff00ff0f"],
+    "REDESIGN_INPUT_CONTROL_ACTIVE_BG": ["#1F1F28"],
     "DIVIDER_STRONG": ["#ff00ff0f"],
     "POLLS_VICTOR_FILL": ["#e7828455"],
     "POLLS_VOTED_FILL": ["#e7828444"],
