@@ -30,7 +30,7 @@
     "BG_BASE_SECONDARY": ["#1F1F28"],
     "BG_BASE_TERTIARY": ["#3c3c4e"],
     "BG_MOD_FAINT": ["#3c3c4e"],
-    "BG_MOD_STRONG": ["#ff0"],
+    "BG_MOD_STRONG": ["#3c3c4e"],
     "BG_MOD_SUBTLE": ["#ff0"],
     "PANEL_BG": ["#1f1f28"],
     "CARD_PRIMARY_BG": ["#3c3c4e7d"],
@@ -85,6 +85,7 @@
     "REDESIGN_CHAT_INPUT_BACKGROUND": ["#3c3c4e7d"]
   },
   "rawColors": {
+    "PLUM_17": "#1f1f28"
   },
   "plus": {
     "version": "0",
