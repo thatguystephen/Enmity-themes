@@ -84,7 +84,8 @@
     "REDESIGN_CHAT_INPUT_BACKGROUND": ["#3636467d"]
   },
   "rawColors": {
-    "PLUM_17": "#1f1f28"
+    "PLUM_17": "#1f1f28",
+    "BRAND_500": "#e78284"
   },
   "plus": {
     "version": "0",
