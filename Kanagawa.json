@@ -31,14 +31,13 @@
     "BG_BASE_TERTIARY": ["#2A2A37"],
     "BG_MOD_FAINT": ["#2A2A37"],
     "BG_MOD_STRONG": ["#1F1F28"],
-    "BG_MOD_SUBTLE": ["#ff0"],
+    "BG_MOD_SUBTLE": ["#1F1F28"],
     "PANEL_BG": ["#1f1f28"],
     "CARD_PRIMARY_BG": ["#2A2A37"],
     "CARD_PRIMARY_PRESSED_BG": ["#34343c"],
     "CARD_SECONDARY_BG": ["#2A2A37"],
     "CHANNEL_ICON": ["#C8C093"],
     "CHANNELS_DEFAULT": ["#2A2A37"],
-    "CHANNELTEXTAREA_BACKGROUND": ["#ff0"],
     "EMBED_BACKGROUND": ["#2A2A37"],
     "FORUM_POST_TAG_BACKGROUND": ["#2A2A37"],
     "HEADER_PRIMARY": ["#DCD7BA"],
@@ -85,6 +84,7 @@
     "REDESIGN_CHAT_INPUT_BACKGROUND": ["#3636467d"]
   },
   "rawColors": {
+    "PLUM_13": "#ff0",
     "PLUM_17": "#1f1f28"
   },
   "plus": {
