@@ -1,0 +1,14 @@
+{
+	"id": "neon-cat.neo-gruv",
+	"name": "Neo Gruv",
+	"description": "A nice gruvbox esque theme.",
+	"authors": [
+		{
+			"name": "Neon_Cat",
+			"id": "833073003452825630"
+		}
+	],
+	"version": "1.0.0",
+	"icon": "PaintPaletteIcon",
+	"main": "bundle.json"
+}

@@ -1,0 +1,14 @@
+{
+	"id": "dor4a.you-blue",
+	"name": "You Blue",
+	"description": "Blue based on Material You :3",
+	"authors": [
+		{
+			"name": "dor4a",
+			"id": "455513497288310785"
+		}
+	],
+	"version": "1.0.0",
+	"icon": "PaintPaletteIcon",
+	"main": "bundle.json"
+}

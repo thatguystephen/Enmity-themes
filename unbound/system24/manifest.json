@@ -1,0 +1,14 @@
+{
+	"id": "flowersnax.system24",
+	"name": "System24",
+	"description": "Matches the system24 theme by refract0r for Vencord, and the Spicetify theme that inspired it.",
+	"authors": [
+		{
+			"name": "flowersnax",
+			"id": "300410184046608384"
+		}
+	],
+	"version": "1.0.0",
+	"icon": "PaintPaletteIcon",
+	"main": "bundle.json"
+}

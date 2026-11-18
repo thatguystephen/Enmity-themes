@@ -1,0 +1,14 @@
+{
+	"id": "spacenomad.system24-rose-pine",
+	"name": "System24 Rose Pine",
+	"description": "Rose Pine variant of the System24 theme by refract0r.",
+	"authors": [
+		{
+			"name": "_spacenomad",
+			"id": "324325381752619009"
+		}
+	],
+	"version": "1.0.0",
+	"icon": "PaintPaletteIcon",
+	"main": "bundle.json"
+}

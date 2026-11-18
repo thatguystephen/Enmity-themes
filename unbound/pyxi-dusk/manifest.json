@@ -1,0 +1,14 @@
+{
+	"id": "lillie.pyxi-dusk",
+	"name": "Pyxi Dusk",
+	"description": "Tinted Discord with soft purple accents.",
+	"authors": [
+		{
+			"name": "Lillie",
+			"id": "254623459190112257"
+		}
+	],
+	"version": "1.0.0",
+	"icon": "PaintPaletteIcon",
+	"main": "bundle.json"
+}
