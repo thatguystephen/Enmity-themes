@@ -1,0 +1,14 @@
+{
+	"id": "spacenomad.kanagawa",
+	"name": "Kanagawa",
+	"description": "A theme based on the Neovim palette, inspired by the colors of the famous painting.",
+	"authors": [
+		{
+			"name": "_spacenomad",
+			"id": "324325381752619009"
+		}
+	],
+	"version": "2.0.0",
+	"icon": "PaintPaletteIcon",
+	"main": "bundle.json"
+}
